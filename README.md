@@ -144,21 +144,33 @@ http://localhost:6811/api/blood/:id
 ## Blood Offer Fields
 
 | `donor_name` | String | Name of the donor |
+
 | `phone_number` | String | Donor phone number |
+
 | `blood_group` | String | A, B, AB, or O |
+
 | `rhesus_factor` | String | Positive or Negative |
+
 | `has_donated_before` | Boolean | Whether the donor has donated before |
+
 | `health_status` | String | Donor health status |
+
 | `createdAt` | Date | Automatically created |
+
 | `updatedAt` | Date | Automatically updated |
 
 ## API Endpoints
 
 | GET | `/` | Check that the API is running |
+
 | GET | `/api/blood` | Get all blood offers |
+
 | GET | `/api/blood/:id` | Get one blood offer |
+
 | POST | `/api/blood` | Create a blood offer |
+
 | PUT | `/api/blood/:id` | Update a blood offer |
+
 | DELETE | `/api/blood/:id` | Delete a blood offer |
 
 ## HTTP Status Codes
@@ -331,21 +343,33 @@ http://localhost:6811/api/blood/:id
 ## Blood Offer Fields
 
 | `donor_name` | String | Name of the donor |
+
 | `phone_number` | String | Donor phone number |
+
 | `blood_group` | String | A, B, AB, or O |
+
 | `rhesus_factor` | String | Positive or Negative |
+
 | `has_donated_before` | Boolean | Whether the donor has donated before |
+
 | `health_status` | String | Donor health status |
+
 | `createdAt` | Date | Automatically created |
+
 | `updatedAt` | Date | Automatically updated |
 
 ## API Endpoints
 
 | GET | `/` | Check that the API is running |
+
 | GET | `/api/blood` | Get all blood offers |
+
 | GET | `/api/blood/:id` | Get one blood offer |
+
 | POST | `/api/blood` | Create a blood offer |
+
 | PUT | `/api/blood/:id` | Update a blood offer |
+
 | DELETE | `/api/blood/:id` | Delete a blood offer |
 
 ## HTTP Status Codes
@@ -518,21 +542,33 @@ http://localhost:6811/api/blood/:id
 ## Blood Offer Fields
 
 | `donor_name` | String | Name of the donor |
+
 | `phone_number` | String | Donor phone number |
+
 | `blood_group` | String | A, B, AB, or O |
+
 | `rhesus_factor` | String | Positive or Negative |
+
 | `has_donated_before` | Boolean | Whether the donor has donated before |
+
 | `health_status` | String | Donor health status |
+
 | `createdAt` | Date | Automatically created |
+
 | `updatedAt` | Date | Automatically updated |
 
 ## API Endpoints
 
 | GET | `/` | Check that the API is running |
+
 | GET | `/api/blood` | Get all blood offers |
+
 | GET | `/api/blood/:id` | Get one blood offer |
+
 | POST | `/api/blood` | Create a blood offer |
+
 | PUT | `/api/blood/:id` | Update a blood offer |
+
 | DELETE | `/api/blood/:id` | Delete a blood offer |
 
 ## HTTP Status Codes
