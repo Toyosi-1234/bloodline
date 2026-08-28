@@ -1,6 +1,6 @@
 ## BloodLine API
 
-BloodLine is a RESTful API for managing blood donation offers. It is built with Node.js, Express.js, MongoDB, and Mongoose.
+BloodLine is a REST API for managing blood donation offers. It is built with Node.js, Express.js, MongoDB, and Mongoose.
 
 ## Project Overview
 
@@ -55,7 +55,6 @@ MONGODB_URI=your_mongodb_connection_string
 PORT=6811
 ```
 
-Do not share your MongoDB credentials or connection string publicly.
 
 3. Start the development server
 
